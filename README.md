@@ -1,8 +1,8 @@
 # Branding
 Branding for Ready To Go Out
 
-## brand logo
+## Brand Logo
 ![brand_logo](png/logo_brand.png)
 
-## simple logo
+## Simple Logo
 ![logo](png/logo.png)
