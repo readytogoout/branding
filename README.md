@@ -1,17 +1,28 @@
 # Branding
 Hier befinden sich alle Dateien die mit der Vermarktung von ready to go out zu tun haben.
 
-## Logo mit Schrift
-![logo mit schrift](png/logo_schrift.png)
+## Logos
+![logovorschau](vorschau.png)
 
-## Normales Logo
-![logo](png/logo.png)
+### [Normales Logo](png/logo.png)
+Normales logo für alle Zwecke.
 
-## Simples, rundes Logo
-![simples logo](png/logo_simpel.png)
+### [Runde Version](png/logo_simpel.png)
+Runde Version für alle Zecke, bei denen das eckige Logo nicht geeignet ist.
+Dieses Logo besitzt den kleinen weißen Ring nicht, und ist deshalb simpler.
+Das "offizielle" Logo ist daher das eckige.
 
-## Simples, transparentes Logo
-![simples transparentes logo](png/logo_simpel_transparent.png)
+### [Transparente Version](png/logo_simpel_transparent.png)
+Transparente und ebenfalls simple Version, die als Icon verwendet werden kann.
+Diese Version ist praktisch, wenn man das Logo eher klein anzeigen lassen möchte,
+sie wird zum Beispiel als Webseiten-Icon verwendet.
+
+### [Logo mit Schriftzug](png/logo_schrift.png)
+Logo inklusive des Namens als Schriftzug daneben. Die Schriftart alleine ist
+[hier](font/righthand-bold-personal.ttf) zu finden und heißt "Righthand (bold)".
+
+#### Weißtere Versionen
+[weiße Version](png/logo_weiß.png)
 
 ## Farben
 - Blauton: #263e55;
