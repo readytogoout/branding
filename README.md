@@ -21,7 +21,7 @@ sie wird zum Beispiel als Webseiten-Icon verwendet.
 Logo inklusive des Namens als Schriftzug daneben. Die Schriftart alleine ist
 [hier](font/righthand-bold-personal.ttf) zu finden und heißt "Righthand (bold)".
 
-#### Weißtere Versionen
+#### Weitere Versionen
 [weiße Version](png/logo_weiß.png)
 
 ## Farben
