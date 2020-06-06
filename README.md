@@ -8,7 +8,7 @@ Hier befinden sich alle Dateien die mit der Vermarktung von ready to go out zu t
 ![logo](png/logo.png)
 
 ## Farben
-- Hintergrund: #263e55;
-- dunklere Version: #172533;
-- Vordergrund: #bbe441;
+- Blauton: #263e55;
+- dunklere Version des Blautons: #172533;
+- Grünton: #bbe441;
 - Weißton: #f6fbe9;
