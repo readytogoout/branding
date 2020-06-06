@@ -9,5 +9,6 @@ Hier befinden sich alle Dateien die mit der Vermarktung von ready to go out zu t
 
 ## Farben
 - Hintergrund: #263e55;
+- dunklere Version: #172533;
 - Vordergrund: #bbe441;
 - Weißton: #f6fbe9;
