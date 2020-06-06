@@ -1,6 +1,14 @@
 # Branding
 Hier befinden sich alle Dateien die mit der Vermarktung von ready to go out zu tun haben.
 
+## Erklärung der Ordner
+- [css](css/): enthält Style-Dateien, die eingebunden werden können, um
+die Resourcen aus den anderen Ordnern dieses Repositories in HTML verwenden zu können.
+- [font](font/): enthält die von ums im Logo verwendetet Schriftart namens "Righthand (bold)".
+- [png](png/): enthält die PNG-Ressourcen, d.h. alle Bilder
+- [svg](svg/): enthält die vektorisierten Ressourcen. SVG-Bilder haben den Vorteil,
+beliebig skalierbar zu sein, ohne unscharf dargestellt zu werden. Der Name einer SVG-Datei stimmt mit dem der entsprechenden PNG-Ressource überein.
+
 ## Logos
 ![logovorschau](vorschau.png)
 
