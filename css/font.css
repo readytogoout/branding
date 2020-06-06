@@ -1,6 +1,6 @@
 @font-face {
   font-family: "righthand";
-  src: url('branding/font/righthand-bold-personal.ttf');
+  src: url('/branding/font/righthand-bold-personal.ttf');
 }
 
 .font-righthand {
