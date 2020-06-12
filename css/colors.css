@@ -13,3 +13,11 @@
 .color-green { color: #bbe441 !important; }
 
 .color-white { color: #f6fbe9 !important; }
+
+:root {
+ --rdy-blue: #263e55;
+ --rdy-darkblue: #172533;
+ --rdy-green: #bbe441;
+ --rdy-white: #f6fbe9;
+}
+
